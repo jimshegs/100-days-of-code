@@ -20,3 +20,13 @@
 **Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
 
 
+### Day 3: January 7, 2017 
+
+
+**Today's Progress**: I was able to make the stylesheets work on Codepen (that gave some trouble). Now the page looks as it should.
+
+**Thoughts:** I didn't log yesterday although I coded. That was because I didn't make any headway with the portfolio page; the page wasn't just styling. The contents of the stylesheets were seen as plain text but thanks to stack overflow, I was able to figure it out and make it work properly
+
+**Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
+
+
