@@ -30,3 +30,13 @@
 **Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
 
 
+### Day 4: January 8, 2017 
+
+
+**Today's Progress**: JavaScript: I use gulp to combine the scripts that came with the template into one so I can reference it from Codepen. Now my page's JS works!
+
+**Thoughts:** I was feeling a little bit down today and I considered not logging but thanks to [Teejay.Codes](http://teejay.codes/) who gave me a little nudge. Good friends are paramount in achieving one's goals.
+
+**Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
+
+
