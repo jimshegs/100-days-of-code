@@ -40,3 +40,15 @@
 **Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
 
 
+### Day 5: January 10, 2017 
+
+
+**Today's Progress**: Worked on the content of my portfolio page (Still on it though).
+
+**Thoughts:** This is taking more time than I thought.
+
+**Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
+
+
+
+
