@@ -50,5 +50,19 @@
 **Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
 
 
+### Day 6: January 11, 2017 
+
+
+**Today's Progress**: Continued work on the content of my portfolio page; did a bit of restructuring and included buttons to my social media pages. The page is gradually taking shape.
+
+**Thoughts:** There are still a few things left to work on: 
+              - thumbnail images of projects I've worked on
+              - the Contact section (how do I make it send me a mail?)
+              
+              Electricity is a big problem in Africa. I do less than I should because of unstable power supply. Also, it'll help to have a better laptop, one with battery that lasts longer.
+
+**Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
+
+
 
 
