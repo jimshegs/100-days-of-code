@@ -64,5 +64,15 @@
 **Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
 
 
+### Day 7-8: January 12-13, 2017 
+
+
+**Progress**:  I added thumbnail images of my past projects. Now, I have fulfilled all the user stories required by [Freecodecamp](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) for the portfolio page. 
+
+**Thoughts:** I spent quite some time trying to figure out how to use modals to display my past projects to no avail. It's either that I can't do that on Codepen or I just haven't figured it out yet.
+
+**Link to work:** [Personal Portfolio Webpage](http://codepen.io/jimshegs/pen/dNbXJm)
+
+
 
 
